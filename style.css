@@ -17,23 +17,28 @@ h1 {
     color: #e2dbdb;
 }
 
+a {
+  color: white:
+}
+
 
 .spacer1 {
-  height: 240px;
+  height: 130px;
 }
 
 .spacer2 {
-  height: 180px;
+  height: 250px;
 }
 
 .frontpage {
   text-align: center;
   padding: 10px;
-  height: 600px;
+  height: 100px;
 }
 
 .frontbutton {
-  background-color: green;
+  background-color: yellow;
+  color: white;
   border-radius: 30px;
   padding: 10px 20px;
   width: 150px;
