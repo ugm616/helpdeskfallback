@@ -1,7 +1,7 @@
 "use strict";
 
 function whenClicked() {
-    alert("You clicked the goshdarned button, yo");
+    alert("You clicked the button");
 }
 
 function bufferClick() {
