@@ -418,11 +418,12 @@ class HelpdeskFallback {
             }
 
             .time-inputs select {
-                width: 45px;
-                padding: 5px;
+                width: 55px;
+                padding: 5px 2px;
                 border: 1px solid #ccc;
                 border-radius: 3px;
                 background: #fff;
+                text-align: center;
             }
 
             textarea {
